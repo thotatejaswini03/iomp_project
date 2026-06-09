@@ -1,7 +1,7 @@
 # ⚖️ AI-Grievance Redressal and Escalation System using NLP and Automated Workflow Management
 
 **CVR College of Engineering** (UGC Autonomous · NAAC 'A' Grade)  
-**Department of CSE (AI & ML)** | B.Tech CSE(AI&ML) | III Year II Sem  
+**Department of CSE (AI & ML)** | B.Tech CSE(AI&ML) |  III Year II Sem  
 **Industry Oriented Major Project (IOMP) — Batch 16**
 
 ---
