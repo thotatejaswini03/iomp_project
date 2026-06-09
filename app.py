@@ -1123,7 +1123,7 @@ def page_admin_analytics(all_g, role="hr"):
                 "Medium":"background-color:#78350f;color:#fcd34d",
                 "Low":"background-color:#14532d;color:#86efac"}.get(val,"")
 
-    styled = df.style.applymap(color_status, subset=["Status"])                     .applymap(color_priority, subset=["Priority"])
+    styled = df.style.map(color_status, subset=["Status"]).map(color_priority, subset=["Priority"])
     st.dataframe(styled, use_container_width=True, hide_index=True)
 
 
